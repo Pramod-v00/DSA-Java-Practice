@@ -60,7 +60,7 @@ This repository serves as a record of my problem-solving journey, covering funda
 
 GitHub: github.com/pramod-v00
 
-LeetCode: [YOUR_LEETCODE_LINK](https://leetcode.com/u/Pramod_V1/)
+LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 
 ---
 
