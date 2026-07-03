@@ -65,3 +65,15 @@ LeetCode: [YOUR_LEETCODE_LINK](https://leetcode.com/u/Pramod_V1/)
 ---
 
 ⭐ Continuously updated with new solutions and optimizations.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
