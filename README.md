@@ -73,6 +73,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
+| [3046-split-the-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,12 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3046-split-the-array) |
+## Counting
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
