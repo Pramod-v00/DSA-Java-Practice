@@ -89,6 +89,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -119,5 +120,6 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
