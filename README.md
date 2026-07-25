@@ -84,6 +84,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -105,4 +106,12 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0414-third-maximum-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
