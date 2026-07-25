@@ -90,10 +90,12 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 | [3046-split-the-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3046-split-the-array) |
 ## Counting
@@ -122,4 +124,8 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | ------- |
 | [0125-valid-palindrome](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
