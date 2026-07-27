@@ -75,6 +75,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3046-split-the-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | ------- |
 | [0242-valid-anagram](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,4 +130,8 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
