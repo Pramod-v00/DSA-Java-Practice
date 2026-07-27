@@ -87,6 +87,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | [0242-valid-anagram](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
