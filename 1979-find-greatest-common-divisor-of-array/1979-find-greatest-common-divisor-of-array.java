@@ -8,7 +8,11 @@ class Solution {
         return gcd(min,max);
     }
     int gcd(int min,int max){
-        if(max==0)return min;
-        return gcd(max,min%max);
+        while (max != 0) {
+            int temp = max;
+            max = min % max;
+            min = temp;
+        }
+        return min;
     }
 }
