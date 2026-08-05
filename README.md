@@ -72,6 +72,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0414-third-maximum-number) |
@@ -122,6 +123,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
