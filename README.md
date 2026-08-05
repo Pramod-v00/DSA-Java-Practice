@@ -92,6 +92,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | [0070-climbing-stairs](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -151,4 +152,8 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0073-set-matrix-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
