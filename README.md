@@ -72,6 +72,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0073-set-matrix-zeroes](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
@@ -101,6 +102,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 | [3046-split-the-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3046-split-the-array) |
@@ -145,4 +147,8 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
