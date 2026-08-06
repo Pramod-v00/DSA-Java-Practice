@@ -72,6 +72,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -89,6 +90,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -152,6 +154,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0073-set-matrix-zeroes) |
 ## Bit Manipulation
 |  |
