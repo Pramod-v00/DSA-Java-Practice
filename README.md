@@ -82,6 +82,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3046-split-the-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3046-split-the-array) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,4 +165,8 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
