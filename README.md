@@ -82,6 +82,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3046-split-the-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3046-split-the-array) |
+| [3731-find-missing-elements](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3731-find-missing-elements) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | [0141-linked-list-cycle](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0242-valid-anagram) |
 | [3046-split-the-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3046-split-the-array) |
+| [3731-find-missing-elements](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ LeetCode: [leetcode.com/u/Pramod_V1/](https://leetcode.com/u/Pramod_V1/)
 | [0414-third-maximum-number](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
