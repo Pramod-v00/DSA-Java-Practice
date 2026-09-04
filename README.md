@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0925-long-pressed-name) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1668-maximum-repeating-substring](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1668-maximum-repeating-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1668-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
