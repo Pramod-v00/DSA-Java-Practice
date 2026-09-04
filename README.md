@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0680-valid-palindrome-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
