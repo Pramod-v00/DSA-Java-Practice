@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0657-robot-return-to-origin) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0014-longest-common-prefix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
