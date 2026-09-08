@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0925-long-pressed-name) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1668-maximum-repeating-substring](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1768-merge-strings-alternately) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0168-excel-sheet-column-title) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
