@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0686-repeated-string-match) |
 | [0925-long-pressed-name](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0925-long-pressed-name) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0686-repeated-string-match) |
 | [1668-maximum-repeating-substring](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
@@ -76,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1871-jump-game-vii) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
