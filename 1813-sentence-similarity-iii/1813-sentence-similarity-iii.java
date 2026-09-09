@@ -9,17 +9,13 @@ class Solution {
         int cnt=0;
         String[] ans=s1.split(" ");
         String[] ans1=s2.split(" ");
-         int st=0,end=ans.length-1;
-         int i=0,j=ans1.length-1;
-         if(ans.length==1 && ans[0].equals(ans1[0]) || ans[0].equals(j)) return true;
-         while(st<ans.length && ans[st].equals(ans1[i])){
+         int st=0,end=0;
+         while(st<ans.length && ans[st].equals(ans1[st])){
             st++;
-            i++;
             cnt++;
          }
-         while(end>=st && ans[end].equals(ans1[j])){
-            end--;
-            j--;
+         while(end<ans.length-st && ans[ans.length-end-1].equals(ans1[ans1.length-end-1])){
+            end++;
             cnt++;
          }
          System.out.print(cnt);
