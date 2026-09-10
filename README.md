@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1813-sentence-similarity-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1871-jump-game-vii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1871-jump-game-vii) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1768-merge-strings-alternately) |
 | [1813-sentence-similarity-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1813-sentence-similarity-iii) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0014-longest-common-prefix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1813-sentence-similarity-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1813-sentence-similarity-iii) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0686-repeated-string-match) |
+## Binary Search
+|  |
+| ------- |
+| [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 <!---LeetCode Topics End-->
