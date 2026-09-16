@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0556-next-greater-element-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0556-next-greater-element-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0556-next-greater-element-iii) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0657-robot-return-to-origin) |
 ## Greedy
 |  |
