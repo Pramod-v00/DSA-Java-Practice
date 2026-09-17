@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0686-repeated-string-match) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0848-shifting-letters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0925-long-pressed-name) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0014-longest-common-prefix) |
+| [0848-shifting-letters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0848-shifting-letters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1813-sentence-similarity-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0848-shifting-letters) |
 | [1871-jump-game-vii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1871-jump-game-vii) |
 ## Z Algorithm
 |  |
