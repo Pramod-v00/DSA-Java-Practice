@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-number-of-ways-to-split-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1668-maximum-repeating-substring](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1668-maximum-repeating-substring) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1813-sentence-similarity-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1813-sentence-similarity-iii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0556-next-greater-element-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0556-next-greater-element-iii) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
