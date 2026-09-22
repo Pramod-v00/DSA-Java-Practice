@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1871-jump-game-vii) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/2000-reverse-prefix-of-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0657-robot-return-to-origin) |
+| [3498-reverse-degree-of-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
