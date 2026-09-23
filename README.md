@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1813-sentence-similarity-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -115,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
