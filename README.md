@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0014-longest-common-prefix) |
 | [0848-shifting-letters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0848-shifting-letters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1813-sentence-similarity-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0848-shifting-letters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1871-jump-game-vii) |
 ## Z Algorithm
 |  |
@@ -115,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 ## Hash Table
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
