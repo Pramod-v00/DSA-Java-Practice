@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0556-next-greater-element-iii) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
