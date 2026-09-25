@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0014-longest-common-prefix) |
+| [0056-merge-intervals](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0056-merge-intervals) |
 | [0848-shifting-letters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0848-shifting-letters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
