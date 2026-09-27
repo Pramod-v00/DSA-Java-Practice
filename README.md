@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0848-shifting-letters](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0925-long-pressed-name) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pramod-v00/DSA-Java-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
